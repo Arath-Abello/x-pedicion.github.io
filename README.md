@@ -1,2 +1,2 @@
 # x-pedicion.github.io
-tarea trabajo profe vladi js
+prendiente: mejorar responsive
