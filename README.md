@@ -1,2 +1,2 @@
 # x-pedicion.github.io
-prendiente: mejorar responsive
+prendiente: mejorar los estilos
